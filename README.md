@@ -1,2 +1,2 @@
 
-![CI](https://github.com/romannikolaich/Working.With.HTML.Forms/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/romannikolaich/Working.With.HTML.Forms/actions/workflows/pages/pages-build-deployment/badge.svg)
